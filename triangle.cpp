@@ -10,6 +10,7 @@ bool valid_triangel( int a, int b, int c){
 	return true;
 } 
 int main(){
+	
 	int a,b,c;
 	cin >> a >> b >> c;
 	if (valid_triangle (a,b,c)){
