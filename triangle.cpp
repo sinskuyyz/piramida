@@ -16,6 +16,7 @@ int main(){
 	if (valid_triangle (a,b,c)){
 		cout << "True";
 	}else
+		
 	cout << "False";
 	
 }
