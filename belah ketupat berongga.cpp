@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
-{
+int main(){
 cout << "Belah Ketupat berongga" << endl;
       for (i = 0; i < n; i++)
       {
